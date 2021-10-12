@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Studying unit tests with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T14g/jest-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T14g/jest-testing/issues"
+  },
+  "homepage": "https://github.com/T14g/jest-testing#readme",
+  "dependencies": {
+    "jest": "^27.2.5"
+  }
+}
