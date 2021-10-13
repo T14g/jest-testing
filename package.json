@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/T14g/jest-testing#readme",
   "dependencies": {
+    "axios": "^0.23.0",
     "jest": "^27.2.5"
   }
 }

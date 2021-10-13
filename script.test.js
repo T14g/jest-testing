@@ -3,7 +3,7 @@
 const googleSearch = require('./script');
 
 // This dont need to be real data
-dbMock = [
+const dbMock = [
     'dog.com',
     'cheese.com',
     'disney.com',
